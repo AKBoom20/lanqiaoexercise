@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class 种类并查集_蓝桥侦探 {
 
 	static int[] p;
-
+	
 	public static void main(String[] args) throws IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		String[] nmStrings = reader.readLine().split(" ");
